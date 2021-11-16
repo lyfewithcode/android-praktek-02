@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="example.javatpoint.com.optionmenu.MainActivity">
+
+    <item android:id="@+id/i_tambah"
+    android:title="Tambah"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_add_white_24dp"/>
+    <item android:id="@+id/i_refresh"
+    android:title="Refresh"
+    app:showAsAction="ifRoom"
+    android:icon="@drawable/ic_refresh_white_24dp"/>
+    <item android:id="@+id/i_pengaturan"
+    android:title="Pengaturan"
+    app:showAsAction="withText"/>
+    <item android:id="@+id/i_profil"
+    android:title="Profil"
+    app:showAsAction="withText"/>
+
+
+
+</menu>
