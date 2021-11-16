@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktek 2</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="temukan">Temukan</string>
+    <string-array name="warna">
+        <item>Merah</item>
+        <item>Biru</item>
+        <item>Hijau</item>
+    </string-array>
+</resources>
